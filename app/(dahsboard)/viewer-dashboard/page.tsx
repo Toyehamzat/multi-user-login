@@ -10,8 +10,8 @@ import {
 
 export default function AdminDashboard() {
   return (
-    <div className="p-8">
-      <Card className="w-[350px]">
+    <div className="p-8 flex">
+      <Card className="w-[350px]  mx-auto">
         <CardHeader>
           <CardTitle>Viewer Dashboard</CardTitle>
           <CardDescription>
