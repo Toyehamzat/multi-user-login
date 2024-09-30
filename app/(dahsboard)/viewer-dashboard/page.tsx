@@ -19,10 +19,7 @@ export default function AdminDashboard() {
           </CardDescription>
         </CardHeader>
         <CardContent>
-          <p className="mb-4">
-            Here you can manage users, view system statistics, and perform other
-            viewer tasks.
-          </p>
+          <p className="mb-4">Here you can perform other viewer tasks.</p>
         </CardContent>
       </Card>
     </div>
